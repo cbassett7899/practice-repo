@@ -1,27 +1,26 @@
-## First Name Last Name
+## Carson Bassett
 
-### Term Year 
+### Spring 22 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Business Finance
 
-- Course 3
+- Macroeconomics
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Old Cars
 
-- Thing 2
+- Destiny 2
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Flag Football
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/27
